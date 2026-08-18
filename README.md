@@ -4,4 +4,4 @@ Goofy ahh script i made that takes what you say and shows the image you set for 
 ## how to use it
 Just install ptython and then double click the .py
 ## if no worky
-Try to open it through commend line and if it shows some trace error, Idk just google it or make an Issue
+Try to open it through command line and if it shows some trace error, Idk just google it or make an Issue
